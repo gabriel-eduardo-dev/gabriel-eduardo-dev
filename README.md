@@ -4,8 +4,8 @@ Welcome to my profile 😁
 
 <div id="status">
   <a href="https://github.com/gabriel-eduardo-dev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-eduardo-dev&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-eduardo-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-eduardo-dev&layout=compact&langs_count=6&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-eduardo-dev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
   <br>
   
